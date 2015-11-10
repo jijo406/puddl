@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <<<<<<< HEAD
+<<<<<<< HEAD
 <module type="WEB_MODULE" version="4">
 =======
+=======
+>>>>>>> lmevange/master
 <module external.system.id="GRADLE" type="WEB_MODULE" version="4">
   <component name="FacetManager">
     <facet type="android-gradle" name="Android-Gradle">
@@ -15,6 +18,9 @@
       </configuration>
     </facet>
   </component>
+<<<<<<< HEAD
+>>>>>>> lmevange/master
+=======
 >>>>>>> lmevange/master
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
@@ -23,7 +29,12 @@
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 <<<<<<< HEAD
+<<<<<<< HEAD
 </module>
+=======
+</module>
+
+>>>>>>> lmevange/master
 =======
 </module>
 

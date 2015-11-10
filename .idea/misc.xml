@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
@@ -15,12 +16,20 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+=======
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" project-jdk-name="Android API 21 Platform" project-jdk-type="Android SDK">
+    <output url="file://$PROJECT_DIR$/out" />
+>>>>>>> lmevange/master
   </component>
   <component name="masterDetails">
     <states>
       <state key="ProjectJDKs.UI">
         <settings>
+<<<<<<< HEAD
           <last-edited>Android API 23 Platform</last-edited>
+=======
+          <last-edited>1.8</last-edited>
+>>>>>>> lmevange/master
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -32,4 +41,9 @@
       </state>
     </states>
   </component>
+<<<<<<< HEAD
 </project>
+=======
+</project>
+
+>>>>>>> lmevange/master
